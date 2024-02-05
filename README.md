@@ -30,7 +30,7 @@ This project aims to extract and analyze job data from LinkedIn, focusing on wor
    ```
 3. Run the Scrapy job extraction script.
    ```bash
-   python scrape_jobs.py
+   AssignmentAns.py
    ```
 4. Check the Google Sheet for the appended data.
 
