@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "assignment-ans-linked-job-data",
+  "private_key_id": "283be7fe9ec531ff14d04cb3d4ef7befd16c56f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChYQAJos5iijGt\n4DLEHamng5ITM1pbJV4kOM0o3Losz8c/Q3Ak8rNNNbPdRrUUadO9HDXImMWNEcys\neHxXtIvWeIWwuoZG4WaBxksCD8yBX52S/gz1GIiBgFOME3DvlPOlD8RNuQg76HDz\n/6LRReDfx1LLcY4mkf0MD1LGw0SdThSfoI2y/gvYx/qDnQQO6NjrGJs2Y2k7qk1B\nbQiJ46u4FYOe3il9Y7Vk4VGNY0/OVo0rVdCH+uRCTeW5YUQ45+U5xsPK6Ah1BL8D\nS5qaFMAFC061CQB977ekSKb1UfjpzW6SHMRo0kWcSzPBsRwyRjL2yG1Q2b7EHEk4\ndSm5XQEFAgMBAAECggEAAhvyQosSXmBsu0AghtIy+OYODFS9fWYE5veQici6Mo5I\nSDFjz3fQNwR7wYDKKok5uwuOEdpgNj4nT+7YSer7E88Pzsuv1q2uwda5zsmizPpu\nZPmbOtamVnI7Gavw1KgN5my9a4XnZAKCQZnFLnO/iNXt5ReHwnPWXwKGcSmA6J4f\nIm347PVhOVPattkNH1nB6d0UfIu/d+Jmqss+p7+TrNAgFt0zP4sVc1PxyRuTe+ud\nowjmkGLjB1uHV93dwDI/zTdDkgyqsLPJC0xmSm0IekgmjVZ4hCJZpK7ooRh1/2CQ\n4abpiwn6ZCaJWQxIzS4YZdlWXTziqjr8MUASPz8NuQKBgQDPqDaWqiNZLZudW1w5\n195jpbNs8H02wEAyGKSpcRpbRc1UGuslp7xGf8fHh1W0e1plZUDQ7GhcQCKKb8+e\nTnf8mZiXE4PDs4+TT0Fz+zxLzueIf4dJreEZGcX86g9KKqJGN/6lXzDV8YS3auAF\nOT/oFv/624EagCz2MW+MAApO0wKBgQDG8rxgH5YQrzLDfRhQlrCGxf6ypo5S3tfR\njPWVry/dZh1r3TnzXUxjCMPkIedIVUO++RxKmAqVCBbE8ZwkPVyCdi6zTn9FtH25\nQ3LTV0NmBBEoZJYUzgFDe555khSZ0c1XnijnaDfb7hkgB4jcf71GmQ5R9CFn8IR4\n8P1KBoh5xwKBgB/lBE1r4HYIDUjECYxQ3bWMc9ydq33HVZTcOB5WYuf19q2eXNOx\nybdCVRsObFmGQMImJShxxy20JBoDRm5YOxGvPcKmmqxqXfkQSUtZIU+7fdB3Vf45\nGMPUM5a/FI4dskL6wr//uO6DZBEP90yWGHy7W6HaKSA6460Ets9YCj1FAoGBAI8B\nBC8EBVZQ2Oh0Dvo+lv0JbR71YfBnhjJ2ZEEIABvgvt09093+/l1he42MYTc5Ms0f\nOxrTVyfw/IzsLxRNlyWf1cnFbu6n4oc82FjZrPSzj7G9O7QQsA/V2AAC5RP8HuIQ\nKc7Mtvo7l4vSXqpAl8kbU5PNLAYOeOqGL0r6jzcZAoGAKcQcLApDOGQd+PjYkTte\nbWCSHDPXmqMDJf7nlE3tGne8PReMG90h0LwWkrfjdLo6bk/UyL9jowaLhEm2jlOC\namBgZj7FCZEtrwhKsXTB08xgdUj+d2cK3/GEQqzEdgCXwIwtGanJTgD3k3XdDvPT\nK0LeFuCD/CVzIlJEP7lfyMM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pratik1024@assignment-ans-linked-job-data.iam.gserviceaccount.com",
+  "client_id": "101791557276537434634",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pratik1024%40assignment-ans-linked-job-data.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
